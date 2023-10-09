@@ -58,7 +58,7 @@ googleapis-common-protos==1.56.3
 graphviz==0.20
 greenlet==1.1.2
 gunicorn==20.1.0
-hdbscan @ file:///home/conda/feedstock_root/build_artifacts/hdbscan_1644612705578/work
+hdbscan==0.8.33
 htmlmin==0.1.12
 httplib2==0.20.4
 huggingface-hub==0.8.1
@@ -74,7 +74,7 @@ ipywidgets==7.7.1
 itsdangerous==2.1.2
 jedi==0.18.1
 Jinja2==3.1.2
-joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
+joblib==1.3.2
 jsonschema==4.6.2
 jupyter-client==7.3.4
 jupyter-core==4.11.1
@@ -162,15 +162,15 @@ requests-html==0.10.0
 rfm==1.0.9
 rich==12.4.4
 rsa==4.8
-scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1652976687386/work
+scikit-learn==1.3.1
 scikit-plot==0.3.7
-scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1653073865807/work
+scipy==1.11.3
 seaborn==0.11.2
 semver==2.13.0
 Send2Trash==1.8.0
 sentence-transformers==2.2.2
 sentencepiece==0.1.96
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+six==1.16.0
 sklearn==0.0
 smart-open==5.2.1
 smmap==5.0.0
@@ -190,7 +190,7 @@ tenacity==8.0.1
 terminado==0.15.0
 textblob==0.17.1
 thinc==8.0.17
-threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1643647933166/work
+threadpoolctl==3.2.0
 tinycss2==1.1.1
 tokenizers==0.12.1
 toml==0.10.2
